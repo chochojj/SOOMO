@@ -41,6 +41,26 @@
 
 <br>
 
+## 🗂️ Pages
+
+| 메인 페이지 | 로그인 페이지 |
+| :---: | :---: |
+| <img src="https://github.com/chochojj/SOOMO/assets/104323906/bbbf3d72-0988-4a3d-af26-8fb19db79805" width="100%" /> | <img src="https://github.com/chochojj/SOOMO/assets/104323906/d9cb4ee4-015d-47d9-a386-4b335a5155e4" width="100%" /> |
+
+| 캘린더 페이지 | 캘린더 상세 페이지 |
+| :---: | :---: |
+| <img src="https://github.com/chochojj/SOOMO/assets/104323906/a2558401-e192-4593-93f4-758a4eaa23fe" width="100%" /> | <img src="https://github.com/chochojj/SOOMO/assets/104323906/53c09a80-f71f-473e-8d11-82974444e677" width="100%" /> |
+
+| 페이지네이션 | 무한스크롤 |
+| :---: | :---: |
+| <img src="https://github.com/chochojj/SOOMO/assets/104323906/a0429134-df35-47cd-9f65-cab198fffc98" width="100%" /> | <img src="https://github.com/chochojj/SOOMO/assets/104323906/950b5124-53b7-45f8-a912-17cdf21e7fa4" width="100%" /> |
+
+| 커뮤니티 작성 | 커뮤니티 수정/삭제  |
+| :---: | :---: |
+| <img src="https://github.com/chochojj/SOOMO/assets/104323906/493dc440-ebee-459d-864c-454cde2953c1" width="100%" /> | <img src="https://github.com/chochojj/SOOMO/assets/104323906/62dba159-187f-4d9e-a669-a9d410575411" width="100%" /> |
+
+<br>
+
 
 ## 🌱 Git
 ### branch
