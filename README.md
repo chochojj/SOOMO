@@ -55,7 +55,7 @@
 | :---: | :---: |
 | <img src="https://github.com/chochojj/SOOMO/assets/104323906/a0429134-df35-47cd-9f65-cab198fffc98" width="100%" /> | <img src="https://github.com/chochojj/SOOMO/assets/104323906/950b5124-53b7-45f8-a912-17cdf21e7fa4" width="100%" /> |
 
-| 커뮤니티 작성 | 커뮤니티 수정/삭제  |
+| 커뮤니티 페이지 | 커뮤니티 상세 페이지  |
 | :---: | :---: |
 | <img src="https://github.com/chochojj/SOOMO/assets/104323906/493dc440-ebee-459d-864c-454cde2953c1" width="100%" /> | <img src="https://github.com/chochojj/SOOMO/assets/104323906/62dba159-187f-4d9e-a669-a9d410575411" width="100%" /> |
 
